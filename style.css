@@ -291,8 +291,7 @@ span{
   /*flex-direction: row-reverse;*/
 }
 .timeline-item:nth-child(even){
-  padding-right: calc(50% + 30px);
-  flex-direction: row-reverse;
+  padding-left: calc(50% + 30px);
 }
 .timeline-dot{
   height: 21px;
