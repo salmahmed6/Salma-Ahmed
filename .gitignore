@@ -1,1 +1,1 @@
-assets/
+# Keep repo simple; no ignored assets so static files deploy to Vercel
