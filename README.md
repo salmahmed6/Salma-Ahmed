@@ -3,7 +3,7 @@
 Live site: **https://salma-port.vercel.app/**
 
 A clean, responsive developer portfolio showcasing my experience, projects, and contact details.  
-Built with a focus on clarity, performance, and a consistent visual identity.
+Built with a focus on clarity, performance, and a consistent visual identity!
 
 ---
 
