@@ -24,4 +24,3 @@ Built with a focus on clarity, performance, and a consistent visual identity!
 - Vanilla JavaScript (interactions & links)
 - [Boxicons](https://boxicons.com/) for icons
 
-> Deployed on **Vercel**.
